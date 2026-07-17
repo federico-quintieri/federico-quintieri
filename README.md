@@ -75,6 +75,8 @@ Collection of reusable libraries and frameworks for MetaTrader 5 development.
 </tr>
 </table>
 
+---
+
 ## 🛠️ Tech Stack
 
 ### Frontend
