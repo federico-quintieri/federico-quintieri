@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Federico</h1>
+<h1 align="left">Hi 👋, I'm Federico</h1>
 
-<h3 align="center">
+<h3 align="left">
 Software Developer from Italy 🇮🇹
 </h3>
 
-<p align="center">
+<p align="left">
 Building web applications, automation tools and algorithmic trading systems.
 </p>
 
@@ -22,37 +22,58 @@ Building web applications, automation tools and algorithmic trading systems.
 
 ## 🔭 Current Projects
 
-### Tech CRM
-Full Stack CRM application built with:
+<table>
+<tr>
 
-- Frontend: Next.js, TypeScript, Tailwind CSS
-- Backend: Java Spring Boot
-- Database: PostgreSQL
+<td width="33%" valign="top">
+
+### 🚀 Tech CRM
+
+Full Stack CRM application.
+
+**Stack**
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Spring Boot
+- PostgreSQL
 
 🔗 https://tech-crm-fe.vercel.app/
 
----
+</td>
 
-### EA Analyzer
+<td width="33%" valign="top">
 
-Tool for analyzing and improving robustness of algorithmic trading systems.
+### 📊 EA Analyzer
 
-Features:
+Tool for analyzing and improving the robustness of algorithmic trading systems.
+
+**Features**
 - Backtest analysis
 - Monte Carlo simulations
 - Performance metrics
 
 🔗 https://github.com/federico-quintieri/robustezza-ea
 
----
+</td>
 
-### MQL5 Libraries
+<td width="33%" valign="top">
 
-Reusable libraries and frameworks for MetaTrader 5 development.
+### ⚙️ MQL5 Libraries
+
+Collection of reusable libraries and frameworks for MetaTrader 5 development.
+
+**Focus**
+- Expert Advisors
+- Trading automation
+- MQL5 frameworks
 
 🔗 https://github.com/stars/federico-quintieri/lists/librerie-mql5
 
----
+</td>
+
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
